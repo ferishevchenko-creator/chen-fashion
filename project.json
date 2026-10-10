@@ -1,0 +1,21 @@
+{
+  "overview": "Landing page toko baju online dengan banner promosi, katalog produk, pencarian, dan tombol beli via WhatsApp.",
+  "features": [
+    "Banner promosi dengan badge diskon dan tombol ajakan",
+    "Katalog produk baju dengan gambar, kategori, dan harga Rupiah",
+    "Pencarian produk real-time",
+    "Filter kategori dan pengurutan produk",
+    "Tombol Beli Sekarang yang membuka WhatsApp dengan pesan produk",
+    "Tombol WhatsApp mengambang dan bagian keunggulan toko",
+    "Tata letak responsif untuk desktop dan mobile"
+  ],
+  "category": "landing-page",
+  "tags": [
+    "ecommerce",
+    "fashion",
+    "landing-page",
+    "whatsapp",
+    "indonesia"
+  ],
+  "last_updated": "2026-10-10T05:53:31.089Z"
+}
